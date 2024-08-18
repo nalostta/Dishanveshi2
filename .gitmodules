@@ -1,0 +1,3 @@
+[submodule "extrlibs/webui"]
+	path = extrlibs/webui
+	url = https://github.com/webui-dev/webui.git
