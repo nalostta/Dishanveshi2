@@ -1,0 +1,3 @@
+/Users/nalostta/Desktop/sdk/Dishanveshi2/build/CMakeFiles/ui_practice.dir
+/Users/nalostta/Desktop/sdk/Dishanveshi2/build/CMakeFiles/edit_cache.dir
+/Users/nalostta/Desktop/sdk/Dishanveshi2/build/CMakeFiles/rebuild_cache.dir

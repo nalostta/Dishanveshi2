@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/nalostta/Desktop/sdk/Dishanveshi2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/nalostta/Desktop/sdk/Dishanveshi2/include -I/Users/nalostta/Desktop/sdk/Dishanveshi2/src/common/image/bitmap -I/Users/nalostta/Desktop/sdk/Dishanveshi2/extrlibs/webui/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -m32 -o CMakeFiles/ui_practice.dir/src/ui/ui_practice.c.o -c /Users/nalostta/Desktop/sdk/Dishanveshi2/src/ui/ui_practice.c",
+  "file": "/Users/nalostta/Desktop/sdk/Dishanveshi2/src/ui/ui_practice.c"
+}
+]
